@@ -5,7 +5,7 @@
 # añadir recordatorios en partes especificas del programa
 # AGG CON LA LIBRERIA RANDOM DIAS RANDOMS PARA PROMOCIONES COMO SER ENVIO A SPS
 # A CHOLOMA O OTRAS CIUDADES DESCUENTOS ALEATORIOS USANDO DICCIONARIOS
-
+#  
 
 import time
 import os
@@ -15,7 +15,7 @@ import random
 historial_compras = []
 carrito_compras = []
 
-
+G
 def valoracion_reseña():
   print("\ntomate un minuto de tu tiempo para evaluar el sistema de esta tienda")
   estrellas = [
