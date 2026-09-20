@@ -14,7 +14,7 @@ import random
 
 historial_compras = []
 carrito_compras = []
-
+JAJJ
 pexi
 def valoracion_reseña():
   print("\ntomate un minuto de tu tiempo para evaluar el sistema de esta tienda")
