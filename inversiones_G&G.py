@@ -5,7 +5,7 @@
 # añadir recordatorios en partes especificas del programa
 # AGG CON LA LIBRERIA RANDOM DIAS RANDOMS PARA PROMOCIONES COMO SER ENVIO A SPS
 # A CHOLOMA O OTRAS CIUDADES DESCUENTOS ALEATORIOS USANDO DICCIONARIOS
-#
+#  
 
 import time
 import os
@@ -262,6 +262,7 @@ for caracter in mensaje:
 time.sleep(1)
 nombre_apellido_usuario = input("\nnombre y apellido:  ")
 guardar_usuarios(nombre_apellido_usuario)
+print("XDDDDDDDD")
 print(f"\n¡Bienvenido a inversiones G&G {nombre_apellido_usuario}!\n")
 time.sleep(0.5)
 print("cargando...\n")
